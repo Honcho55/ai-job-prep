@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[packages/core/src/relationships.ts:18](https://github.com/dabit3/ai-agent-cognitivedriftt/blob/main/packages/core/src/relationships.ts#L18)
+[packages/core/src/relationships.ts:18](https://github.com/emmanuelekopimo/huncho-ai/blob/main/packages/core/src/relationships.ts#L18)

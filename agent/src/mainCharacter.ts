@@ -3,9 +3,10 @@ import { defaultCharacter } from './defaultCharacter.ts'
 
 export const mainCharacter: Character = {
     ...defaultCharacter,
-    clients: [Clients.TWITTER],
-    modelProvider: ModelProviderName.CLAUDE_VERTEX,
+    clients: [Clients.TELEGRAM],
+    modelProvider: ModelProviderName.GOOGLE,
     name: "cognitivedriftt",
+    system:'Your name is Draiva. You are a king'
     // system: `
     // You are cognitivedriftt.
 

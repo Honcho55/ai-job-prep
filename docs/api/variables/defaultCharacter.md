@@ -6,4 +6,4 @@
 
 ## Defined in
 
-[packages/core/src/defaultCharacter.ts:3](https://github.com/dabit3/ai-agent-cognitivedriftt/blob/main/packages/core/src/defaultCharacter.ts#L3)
+[packages/core/src/defaultCharacter.ts:3](https://github.com/emmanuelekopimo/huncho-ai/blob/main/packages/core/src/defaultCharacter.ts#L3)

@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[packages/core/src/generation.ts:711](https://github.com/dabit3/ai-agent-cognitivedriftt/blob/main/packages/core/src/generation.ts#L711)
+[packages/core/src/generation.ts:711](https://github.com/emmanuelekopimo/huncho-ai/blob/main/packages/core/src/generation.ts#L711)

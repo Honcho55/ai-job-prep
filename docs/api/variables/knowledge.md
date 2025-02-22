@@ -52,4 +52,4 @@
 
 ## Defined in
 
-[packages/core/src/knowledge.ts:150](https://github.com/dabit3/ai-agent-cognitivedriftt/blob/main/packages/core/src/knowledge.ts#L150)
+[packages/core/src/knowledge.ts:150](https://github.com/emmanuelekopimo/huncho-ai/blob/main/packages/core/src/knowledge.ts#L150)

@@ -18,4 +18,4 @@
 
 ## Defined in
 
-[packages/core/src/goals.ts:55](https://github.com/dabit3/ai-agent-cognitivedriftt/blob/main/packages/core/src/goals.ts#L55)
+[packages/core/src/goals.ts:55](https://github.com/emmanuelekopimo/huncho-ai/blob/main/packages/core/src/goals.ts#L55)
