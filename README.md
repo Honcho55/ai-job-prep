@@ -1,4 +1,4 @@
-# cognitivedrift
+# ai-job-prep
 
 An AI Agent built by Nader
 
