@@ -1,6 +1,6 @@
 # ai-job-prep
 
-An AI Agent built by Nader
+An AI Agent built by Honcho
 
 ![cognitivedriftt](cognitivedriftt.jpg)
 
